@@ -31,7 +31,8 @@ Data Engineer / BI Engineer with experience in building ETL pipelines, analytics
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="Spark" width="50" height="50"/>
-  <img src="./kedro.png" width="50"/>
+  <img src="./kedro.png"  height="75"/>
+  &nbsp;&nbsp;
 </p>
 
 ### Databases & Storage
@@ -45,8 +46,8 @@ Data Engineer / BI Engineer with experience in building ETL pipelines, analytics
 ### BI & Visualization
 <p align="center">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="50" height="50"/>
-  <img src="./looker.png" width="50"/>
-  <img src="./plotly.png" width="50"/>
+  <img src="./looker.png"  height="80"/>
+  <img src="./plotly.png"   height="60"/>
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="50" height="50"/>
 </p>
 
