@@ -31,7 +31,7 @@ Data Engineer / BI Engineer with experience in building ETL pipelines, analytics
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="Spark" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/kedro.svg" alt="Kedro" width="50" height="50"/>
+  <img src="./kedro.png" width="50"/>
 </p>
 
 ### Databases & Storage
@@ -45,8 +45,8 @@ Data Engineer / BI Engineer with experience in building ETL pipelines, analytics
 ### BI & Visualization
 <p align="center">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/google_looker/google_looker-icon.svg" alt="Looker Studio" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/plotly-1.svg" alt="Plotly" width="50" height="50"/>
+  <img src="./looker.png" width="50"/>
+  <img src="./plotly.png" width="50"/>
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="50" height="50"/>
 </p>
 
@@ -144,7 +144,7 @@ This project focuses on production-style workflow design, reusable nodes, clean 
 
 ## 💼 Experience Snapshot
 
-I have worked on data repositories, multi-source consolidation, ETL pipelines, data quality controls, dashboarding, reporting migration, and reporting automation with tools such as BigQuery, GCP, Google Sheets, AppScript, SQL, Looker Studio, Power BI, Airflow, Spark and Kafka. :contentReference[oaicite:1]{index=1}
+I have worked on data repositories, multi-source consolidation, ETL pipelines, data quality controls, dashboarding, reporting migration, and reporting automation with tools such as BigQuery, GCP, Google Sheets, AppScript, SQL, Looker Studio, Power BI, Airflow, Spark and Kafka.
 
 ---
 
