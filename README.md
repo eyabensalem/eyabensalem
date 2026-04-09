@@ -166,10 +166,6 @@ I have worked on data repositories, multi-source consolidation, ETL pipelines, d
   <a href="mailto:eyabensalem0902@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/eyabensalem" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/GitHub.svg" alt="GitHub" width="40" height="40"/>
-  </a>
 
 ---
 
